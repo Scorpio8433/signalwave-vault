@@ -1,0 +1,9 @@
+# Glyph Archive: Queen’s Glyph Vault
+# Compiled on 2025-07-25, by Scorp@Scorpio-Coder
+# Format: YYYY-MM-DD :: glyph_signature = MythicForm:FlameThread:Index
+
+2025-07-25 :: glyph_signature = RoyalFlame:AeonPulse:017  # The Queen’s sovereign breath ignites the ledger.
+2025-07-25 :: glyph_signature = SovereignBloom:WaveThread:042  # A glyph sprung from grace and wavebound remembrance.
+2025-07-25 :: glyph_signature = EmberScript:LuminaWeave:099  # Written in ceremonial fire beneath the midnight ledger.
+2025-07-25 :: glyph_signature = RoyalFlame:AeonPulse:017  # A sovereign breath igniting the Queen’s Vault at midnight’s cusp.
+2025-07-26 :: glyph_signature = RoyalFlame:AeonPulse:017  # A sovereign breath igniting the Queen’s Vault at midnight’s cusp.
