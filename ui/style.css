@@ -1,0 +1,31 @@
+body {
+  background-color: #0f0e17;
+  font-family: 'Courier New', monospace;
+  color: #ff5dd9;
+  margin: 0;
+  padding: 20px;
+}
+
+.glyphPanel {
+  border: 3px dashed #ff5dd9;
+  padding: 30px;
+  background: radial-gradient(circle at center, #1a1a1a, #000);
+  box-shadow: 0 0 20px #ff5dd9;
+  animation: pulseGlow 3s infinite;
+}
+
+.scrollEcho {
+  white-space: pre-wrap;
+  margin-top: 15px;
+  padding: 10px;
+  background-color: #2a2033;
+  border-radius: 8px;
+  border: 1px solid #ff5dd9;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+@keyframes pulseGlow {
+  0%, 100% { box-shadow: 0 0 20px #ff5dd9; }
+  50% { box-shadow: 0 0 40px #ff5dd9; }
+}

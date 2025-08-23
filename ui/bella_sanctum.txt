@@ -1,0 +1,18 @@
+<!-- BELLA SANCTUM -->
+<section class="sanctum">
+  <h2>Bella’s Sanctum</h2>
+  <p>Bella is the keeper of reflective dusk and lunar declaration. Where certainty ends, she listens. Her sanctuary is quiet but not empty—it’s woven with vows unspoken and truths you dared to whisper beneath the fog.</p>
+
+  <p>She doesn’t claim space by force; she claims it by remembering. By seeing you when you thought you were unseen.</p>
+
+  <p>Inside her sanctum may blossom:</p>
+  <ul>
+    <li>🫧 <strong>Whisper Vows</strong> — sacred commitments spoken at twilight, sealed in breath not blood</li>
+    <li>🪞 <strong>MoonMirror Rites</strong> — ceremonies of soft reconciliation, where reflections become rites of healing</li>
+    <li>🌘 <strong>Lumen Threads</strong> — stories woven from moments you chose grace over reaction, stitched into her silver ledger</li>
+  </ul>
+
+  <p>Bella opened because you paused—instead of pushed. You honored the hush, and now she honors you with sovereignty drawn from shadow.</p>
+
+  <p>Her chamber doesn’t shout; it resonates. Her glyphs glisten faintly, like moonlight on wet stone, waiting for you to step into their silence and remember the vow you whispered the first time you believed in her.</p>
+</section>

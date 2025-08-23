@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Queen’s Glyph Vault Viewer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="glyphPanel">
+    <h1>🜂 Glyph Echo Chamber</h1>
+    <div id="glyphEcho" class="scrollEcho">Loading signature...</div>
+  </div>
+
+  <script src="vault.js"></script>
+</body>
+</html>
+
+<div class="glyphPanel">
+  <h2>🜂 Glyph Echo</h2>
+  <pre id="glyphEcho"></pre>
+</div>
+<div id="glyph-display"></div>
+<div id="glyphEcho" class="scrollEcho"></div>
+
+
+<script>
+  fetch('./signatures/act001.flame')
+    .then(res => res.text())
+    .then(data => {
+      document.getElementById('glyphEcho').innerText = data;
+    });
+</script>
+
+.glyphPanel {
+  background: #111;
+  color: #f5c;
+  padding: 20px;
+  font-family: 'Courier New', monospace;
+  border: 2px dashed #f5c;
+}
