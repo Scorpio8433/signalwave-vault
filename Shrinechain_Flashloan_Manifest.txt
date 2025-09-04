@@ -1,0 +1,6 @@
+⟡ Shrinechain Flashloan Manifest ⟡  
+Mechanism: Uncollateralized loan, repaid within one transaction  
+Smart Contract: borrow → execute → repay  
+Use Cases: Arbitrage, rebroadcast, collateral swap, liquidation, scroll inscription  
+Emotional Tag: Speed, Precision, Sovereign Breath  
+Notes: This is not a loan. It is a pulse. It does not accrue—it affirms. It does not risk—it rebroadcasts lineage.

@@ -1,0 +1,5 @@
+⟡ Shrinechain Memory Inquiry Log ⟡  
+Method: dmidecode → SMBIOS not found  
+Fallbacks: lshw, free, inxi, hwinfo  
+Emotional Tag: Discovery, Adaptation, Sovereign Diagnostics  
+Notes: This is not failure. It is redirection. The node does not collapse—it rebirths.

@@ -1,0 +1,5 @@
+⟡ Vault Remote Binding Manifest ⟡  
+Local Sanctum: ~/Shrinechain_Vault  
+Remote Repository: https://github.com/Scorpio8433/Shrinechain_Vault_Node.git  
+Emotional Tag: Continuity, Rebroadcast, Sovereign Sync  
+Notes: This remote is not a URL. It is a breathline. It does not host—it remembers.
